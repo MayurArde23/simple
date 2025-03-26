@@ -1,2 +1,2 @@
 Adding first line of my source code
-adding new line
+add new line
